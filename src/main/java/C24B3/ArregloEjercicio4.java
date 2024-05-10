@@ -20,6 +20,7 @@ public class ArregloEjercicio4 {
         for (int edad : edades) {
             sumaEdades += edad;
             System.out.println(edad);
+
         }
         double promedio = (double) sumaEdades / edades.length;
 
